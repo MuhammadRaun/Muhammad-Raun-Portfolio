@@ -4158,6 +4158,11 @@ span.post-page-numbers {
     }
 }
 @media (max-width: 480px) {
+
+    .section.started .h-title {
+        
+        font-size: 35px;
+    }
     .section .content .comment-respond .title.comment-reply-title {
         text-align: left;
     }
